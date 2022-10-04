@@ -3,13 +3,13 @@
 ## Created a Movie Preferences Android app using Java for my final assignment in Mobile Software Development
 <br>
 This app incorporates features such as:
-* CRUD operations
-* Data retrieval from web API
-* Dynamic data generation
-* Android Map SDK
+ * CRUD operations
+ * Data retrieval from web API
+ * Dynamic data generation
+ * Android Map SDK
 
 
-## Home Page
+## App Screenshots
 
 <h4>Home Page</h4>
 <p style="text-align: center; margin: auto; width=30vw">
@@ -17,11 +17,15 @@ This app incorporates features such as:
 </p>
 <h4>Navigation</h4>
 <p style="text-align: center; margin-top: 3vh;  margin-left: 35vw; width=10vw">
-  <img src="https://github.com/rossmcel/MSD-Assignment/blob/eb1f1c6ab9d08bfd6f3aea7b1e05491c025ce25b/navigation.PNG" title="Mobile Screen">
+  <img src="https://github.com/rossmcel/MSD-Assignment/blob/eb1f1c6ab9d08bfd6f3aea7b1e05491c025ce25b/navigation.PNG" title="Navigation">
 </p>
-<h4>Navigation</h4>
+<h4>Genres Page</h4>
 <p style="text-align: center; margin-top: 3vh;  margin-left: 35vw; width=10vw">
-  <img src="https://github.com/rossmcel/MSD-Assignment/blob/eb1f1c6ab9d08bfd6f3aea7b1e05491c025ce25b/genresPage.PNG" title="Mobile Screen">
+  <img src="https://github.com/rossmcel/MSD-Assignment/blob/eb1f1c6ab9d08bfd6f3aea7b1e05491c025ce25b/genresPage.PNG" title="Genres Page">
+</p>
+<h4>Map Page</h4>
+<p style="text-align: center; margin-top: 3vh;  margin-left: 35vw; width=10vw">
+  <img src="https://github.com/rossmcel/MSD-Assignment/blob/4d2401a1a145be5234baf00a8680fb09215ff147/mapPage.PNG" title="Map Page">
 </p>
 
 
